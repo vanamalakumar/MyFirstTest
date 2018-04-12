@@ -9,7 +9,7 @@ public class MavenTest {
 	@Test
 	public void xxxtest()
 	{
-	
+	// this is a my first maven project
 System.out.println("hello");
 System.setProperty("webdriver.gecko.driver", "C:/gecko/geckodriver.exe");
 FirefoxDriver driver = new FirefoxDriver();
